@@ -7,7 +7,7 @@
 
 # Site settings
 title: PJ Murray
-email: pjmurraynz@gmail.com
+email: pj.murray.nz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Software Engineer | Founded Elto.com (sold to GoDaddy.com) | Passionate about remote + distributed
   teams
@@ -15,6 +15,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pjmurray.nz" # the base hostname & protocol for your site
 twitter_username: pjmurraynz
 github_username:  pjmurray
-
+current_location: London, United Kingdom
 # Build settings
 markdown: kramdown
+technologies:
+- Ruby
+- Rails
+- Python
+- Django
+- Javavscript (incl. CoffeeScript + ES6)
+- React
+- Backbone
+- Puppet
+- OpenStack
+- Hadoop
+- Mysql
+- MongoDB
+- Redis
