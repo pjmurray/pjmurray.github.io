@@ -18,6 +18,16 @@ github_username:  pjmurray
 current_location: London, United Kingdom
 # Build settings
 markdown: kramdown
+interests:
+  - Running
+  - Snowboarding
+  - Yoga
+  - Crossfit
+  - Bodyweight fitness
+  - Fixed gear cycling
+  - Kitesurfing
+  - Reading
+  - Minimalism
 technologies:
 - Ruby
 - Rails

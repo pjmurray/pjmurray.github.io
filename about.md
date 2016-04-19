@@ -1,17 +1,35 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Previously founded Elto.com which was acquired by GoDaddy.com in 2015.
+I'm customer centric full-stack software engineer. Most notably, I founded Elto.com which was acquired by GoDaddy.com in 2015.
 
-Passionate about: remote teams, software excellenge, lean startup, agile development
+I'm most passionate about: remote teams, software excellence, lean startups, agile development.
 
-Technologies I've worked with:
+
+# Employment
+
+* 2012-2015: Elto.com
+* 2012: Inspire 9
+* 2011-2012: ThoughtWorks
+* 2010 - 2011: NRW
+* 2005 - 2009: University of Cantebury
+
+
+# Technologies
+
 {% for tech in site.technologies %}
-  * {{ tech }}
-{% endfor %}
+  * {{ tech }}{% endfor %}
+
+# Personal
+
+I've constantly been moving around my whole life. I was born in South Africa, 
+grew up and studied in New Zealand, worked in various parts on Australia,
+spent 2 years in San Francisco, and am now in London.
+
+Other hobbies include: {{ site.interests | join: ', ' }}
 
 Get in [contact with me][email]
 
