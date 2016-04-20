@@ -1,23 +1,110 @@
-header {
-  background-color: black;
-  nav a {color: white;}
-  nav a:visited {color: white;}
+$black: $grey-color-light;
+.post-header {
+  // background-color: black;
+  // padding: 8px 20px;
+  margin-bottom: 20px;
+  h1 {
+    // color: white;
+    margin-bottom: 0;
+  }
+
+}
+.post-content {
+  h1 {
+    border-bottom: 1px solid $black; 
+    display: inline-block;
+    padding-right: 30px;
+    padding-left: 30px;
+    position: relative;
+    left: -30px;
+  }
 }
 
+.site-header {
+  // background-color: $black;
+  // nav a {color: white;}
+  // nav a:visited {color: white;}
+}
+.site-nav {
+  // margin-top: 20px;
+  // border-bottom: 1px solid $black;
+  border-bottom: 1px solid $black;
+}
+.site-nav a {
+  color: black;
+  display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+
+    border-right: 1px solid $black;
+    padding: 0 20px;
+    line-height: 50px;
+    height: 50px;
+    border-bottom: 1px solid transparent;
+
+    &.active {
+    border-bottom: 0;
+    border-bottom: 1px solid white;
+    // height: 51px;
+    // line-height: 46px;
+    position: relative;
+    top: 1px;
+    &:first-child {
+      border-left: 1px solid $black;
+    }
+    }
+    &.contact {
+      // float: right;
+      border-right: 0;
+    }
+}
+
+.page-content .wrapper {
+  border-left: 1px solid $black;
+}
+
+.hero-content {
+  position: relative;
+  height: 155px;
+
+  margin-top: 50px;
+  $font-size:50px;
+  h2 {
+    // margin-top: 40px;
+    font-size: $font-size;
+    // text-align: center;
+    border-bottom: 1px solid $black;
+    margin-bottom: 0;
+  }
+  h2, p {
+    // color: white;
+  }
+h2, nav {
+  padding-left: 100px;
+}
 .img-wrapper {
   $height: 200px;
-  padding: 0;
+  $padding: 10px;
+
+  padding: $padding;
+  position: absolute;
+  top: -43px;
+  left: -$height/2 - 31;
   margin: 0 auto;
-  margin-top: 50px;
-  border: 5px solid white;
+  border: 1px solid $black;
   background-color: white;
   overflow: hidden;
   border-radius: $height / 2;
   height: $height;
   width: $height;
-  box-sizing: border-box; 
+  box-sizing: border-box;
+  display: inline-block;
   img {
-    width: 100%;
-    height: 100%;
+    $img-size: $height - 2 * $padding;
+    position: relative;
+    width: $img-size;
+    height: $img-size;
+    border-radius: $img-size / 2; 
   }
+}
 }
