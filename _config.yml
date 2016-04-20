@@ -13,6 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   teams
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pjmurray.nz" # the base hostname & protocol for your site
+sass:
+  sass_dir: _sass
+  style: compressed
 twitter_username: pjmurraynz
 github_username:  pjmurray
 current_location: London, United Kingdom
