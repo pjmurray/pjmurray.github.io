@@ -2,7 +2,7 @@
 layout: post
 title:  "My first Post!"
 date:   2016-04-19 21:56:00 +0100
-categories: writing
+categories:
 ---
 
 This is my first post. Welcome.

@@ -7,15 +7,13 @@
       <div class='img-wrapper'>
         <img src="/assets/profile_pic_square_1.png"/>
       </div>
-        <div class='copy-wrapper'>
-          <h2> PJ Murray </h2>
           <nav class="site-nav">
         <div class="trigger">
+          <h2> PJ Murray </h2>
           {% for my_page in site.pages | sort: 'order'%}{% if my_page.title %}{% if page.url == my_page.url %}<a class="page-link active" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>{% else %}<a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>{% endif %}{% endif %}{% endfor %}
         </div>
       </nav>
 
-    </div>
     </div>
 
 

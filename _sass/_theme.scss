@@ -1,7 +1,5 @@
 $black: $grey-color-light;
 .post-header {
-  // background-color: black;
-  // padding: 8px 20px;
   margin-bottom: 20px;
   h1 {
     // color: white;
@@ -9,56 +7,53 @@ $black: $grey-color-light;
   }
 
 }
+.site-header {
+  margin-bottom: 20px;
+}
 .post-content {
   h1 {
     border-bottom: 1px solid $black; 
     display: inline-block;
     padding-right: 60px;
-  
+
   }
 }
 
-.site-header {
-  // background-color: $black;
-  // nav a {color: white;}
-  // nav a:visited {color: white;}
-}
+
 .site-nav {
-  // margin-top: 20px;
-  // border-bottom: 1px solid $black;
   border-bottom: 1px solid $black;
   margin-right: 100px;
+  text-align: right;
+  padding-top: 60px;
 }
+
 .site-nav a {
   color: #999;
   display: inline-block;
-    font-weight: bold;
-    font-size: 20px;
+  font-weight: 400;
+  font-size: 20px;
 
+  padding: 0 20px;
+  line-height: 50px;
+  height: 50px;
+  border-bottom: 1px solid transparent;
 
-
-
-    padding: 0 20px;
-    line-height: 50px;
-    height: 50px;
-    border-bottom: 1px solid transparent;
-
-    &:hover {
-    color: black;
-      
-    }
-    &.active {
-    border-bottom: 0;
-    border-bottom: 1px solid white;
-    border-top: 1px solid $black;
-    border-left: 1px solid $black;
-    border-right: 1px solid $black;
-    // height: 51px;
-    // line-height: 46px;
-    position: relative;
-    color: black;
-    top: 1px;
-    }
+  &:hover {
+  color: black;
+    
+  }
+  &.active {
+  border-bottom: 0;
+  border-bottom: 1px solid white;
+  border-top: 1px solid $black;
+  border-left: 1px solid $black;
+  border-right: 1px solid $black;
+  // height: 51px;
+  // line-height: 46px;
+  position: relative;
+  color: black;
+  top: 1px;
+  }
     
 }
 
@@ -67,26 +62,28 @@ $black: $grey-color-light;
   // height: 155px;
   clear: both;
 
-  margin-top: 50px;
-  $font-size:50px;
+  margin-top: 20px;
+  $font-size:24px;
   h2 {
     // margin-top: 40px;
     font-size: $font-size;
+    font-weight: 600;
     margin-bottom: 0;
-  }
-  .copy-wrapper {
-    padding-top: 32px;
+    display: inline-block;
+    line-height: 50px;
+    float: left;
   }
   .img-wrapper {
-    $height: 200px;
+    $height: 140px;
+
     $padding: 10px;
 
     padding: $padding;
-    // position: absolute;
+    margin-left: 30px;
     float: right;
     // top: -43px;
     // left: -$height/2 - 31;
-    margin: 0 auto;
+    // margin: 0 auto;
     border: 1px solid $black;
     background-color: white;
     overflow: hidden;
@@ -106,13 +103,12 @@ $black: $grey-color-light;
 }
 
 ul.post-list {
-  border-top: 1px solid $black;
+  // border-top: 1px solid $black;
   // position: relative;
-  margin-left: -30px;
 
 }
 .post-list li {
-  padding: 20px 0 20px 30px;
+  padding: 20px 0;
 
   border-bottom: 1px solid $black;
 

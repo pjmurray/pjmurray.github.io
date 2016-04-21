@@ -21,6 +21,7 @@ github_username:  pjmurray
 current_location: London, United Kingdom
 # Build settings
 markdown: kramdown
+permalink:  /blog/:categories/:title.html
 interests:
   - Fixed gear cycling
   - Snowboarding

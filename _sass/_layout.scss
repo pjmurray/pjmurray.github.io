@@ -167,9 +167,6 @@
  */
 .page-content {
     padding: 0 0 $spacing-unit;
-    .wrapper {
-        padding-top: $spacing-unit;
-    }
 
 }
 
@@ -180,10 +177,6 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit;
-    }
 }
 
 .post-meta {
