@@ -22,14 +22,14 @@ current_location: London, United Kingdom
 # Build settings
 markdown: kramdown
 interests:
-  - Running
-  - Snowboarding
-  - Yoga
-  - Crossfit
-  - Bodyweight fitness
   - Fixed gear cycling
-  - Kitesurfing
+  - Snowboarding
+  - Bodyweight fitness
+  - Yoga
   - Reading
+  - Running
+  - Crossfit
+  - Kitesurfing
   - Minimalism
 technologies:
 - Ruby

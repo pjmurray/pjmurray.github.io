@@ -26,8 +26,10 @@ I'm most passionate about: remote teams, software excellence, lean startups, agi
 
 # Personal
 
-I've constantly been moving around my whole life. I was born in South Africa, 
+I was born in South Africa,
 grew up and studied in New Zealand, worked in various parts on Australia,
 spent 2 years in San Francisco, and am now in London.
 
-Other hobbies include: {{ site.interests | join: ', ' }}
+# Hobbies + Interests
+
+{{ site.interests | join: ', ' }}
