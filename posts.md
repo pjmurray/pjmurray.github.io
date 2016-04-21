@@ -5,8 +5,6 @@ permalink: /blog/
 order: 2
 ---
 
-This is a summary of my writing:
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>

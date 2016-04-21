@@ -5,7 +5,7 @@ $black: $grey-color-light;
   margin-bottom: 20px;
   h1 {
     // color: white;
-    margin-bottom: 0;
+    // margin-bottom: 0;
   }
 
 }
@@ -115,13 +115,8 @@ ul.post-list {
   padding: 20px 0 20px 30px;
 
   border-bottom: 1px solid $black;
-  transition: border-left 200ms ease-in;
-  -webkit-transition: border-left 200ms ease-in;
-  border-left: 0px solid $black;
-  &:hover {
-    border-left: 20px solid $black;
-    curor: pointer;
-  }
+
+
   span {
     float: right;
     line-height: 32px;
