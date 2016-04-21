@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
 
 I'm customer centric full-stack software engineer. Most notably, I founded Elto.com which was acquired by GoDaddy.com in 2015.
@@ -30,9 +31,3 @@ grew up and studied in New Zealand, worked in various parts on Australia,
 spent 2 years in San Francisco, and am now in London.
 
 Other hobbies include: {{ site.interests | join: ', ' }}
-
-Get in [contact with me][email]
-
-I am currently in: **{{site.current_location}}**
-
-[email]: mailto:{{site.email}}

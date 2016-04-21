@@ -2,6 +2,7 @@
 layout: page
 title: Writing
 permalink: /blog/
+order: 2
 ---
 
 This is a summary of my writing:

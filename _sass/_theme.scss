@@ -53,7 +53,7 @@ $black: $grey-color-light;
       border-left: 1px solid $black;
     }
     }
-    &.contact {
+    &:last-child {
       // float: right;
       border-right: 0;
     }
@@ -67,7 +67,7 @@ $black: $grey-color-light;
   position: relative;
   height: 155px;
 
-  margin-top: 50px;
+  margin-top: 80px;
   $font-size:50px;
   h2 {
     // margin-top: 40px;
