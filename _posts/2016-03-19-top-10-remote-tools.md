@@ -5,11 +5,11 @@ date:   2016-04-20 21:56:00 +0100
 categories: remote
 ---
 
-Remote work is becoming easier and easier. Internet speeds are getting faster. Products are getting better. Here are my top ten favorite tools for getting the jobs done.
+Remote work is becoming easier and easier. Internet speeds are getting faster. The products and tools are getting better. Here are my top ten favorite tools for getting the jobs done.
 
 # Video Calling: [Zoom][zoom]
 
-Zoom is best in class. It works pretty well at low Internet speeds, has a great mobile app, and has no limits of participants. Google Hangouts and Skype are OK, but Zoom is better. Seriously.
+Zoom is best in class. It works pretty well at low internet speeds, has a great mobile app, and has no limits to participants in a call. Google Hangouts and Skype are OK, but Zoom is better. Seriously.
 
 # Screen Sharing: [ScreenHero][screenhero]
 
@@ -17,7 +17,7 @@ Screen sharing on tools like Zoom or Skype sucks! It's one way and really doesn'
 
 # Collaboration: [Google Docs][google-docs]
 
-When it comes to document collaboration, you're hard pushed to beat Google docs. It's free and it works.
+When it comes to document collaboration, you're hard pushed to beat Google docs. It's free and it just works.
 
 # Timezones: [The Clock][clock]
 
@@ -29,23 +29,23 @@ Depending on how you work, Trello is one of the best tools around for managing w
 
 # Version Control: [Github][github]
 
-The poster boy of Web 2.0 products.
+The poster boy of Web 2.0 products. Github has nailed the social aspect of coding and is the core to our teams workflow.
 
 # Design: [Invision][invision]
 
-Design is a conversation.
+Design is a conversation. Invision does a great job of helping you have that conversation.
 
 # Working Offline: [Dash][dash]
 
-As a developer, sometimes you need to read the documentation. And sometimes you don't have the Internet. Dash solves this problem and makes getting work done on planes (or other remote locations) easy. Just make sure you install everything you need before you embark!
+As a developer, sometimes you need to read the documentation. And if you travel around, sometimes you don't have access to the intenet. Dash solves this problem and makes getting work done on planes (or other remote locations) easy. Just make sure you install everything you need before you embark!
 
 # Productivity: [Pomodo One][pomodo]
 
-This is technically not a tool for remote work, but here me out. One of the challenges of being a remote worker is managing your time. It has never been easier to get distracted. Pomodo One helps fix that. Work in 25 minute bursts to get more done!
+This is technically not a tool for remote work, but hear me out. One of the challenges of being a remote worker is managing your time. It has never been easier to get distracted. Pomodo One helps fix that. Work in 25 minute bursts to get more done!
 
 # Hardware: A good headset
 
-Finally, this deserves special mentions. 
+Finally, this deserves special mention. If you are taking video calls, then wear a headset. Your teammates will thank you. Apple headphones are not good enough. 
 
 
 

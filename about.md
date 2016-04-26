@@ -12,8 +12,9 @@ I'm most passionate about: remote teams, software excellence, lean startups, agi
 
 # Employment
 
+* 2015-current: GoDaddy
 * 2012-2015: Elto.com
-* 2012: Inspire 9
+* 2012: Inspire9
 * 2011-2012: ThoughtWorks
 * 2010 - 2011: NRW
 * 2005 - 2009: University of Cantebury

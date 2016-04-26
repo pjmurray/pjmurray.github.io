@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Remote Spectrum"
+title:  "Use a headset, seriously"
 date:   2016-04-20 21:56:00 +0100
 categories: remote
 ---

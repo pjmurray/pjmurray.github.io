@@ -40,19 +40,10 @@ $black: $grey-color-light;
 
   &:hover {
   color: black;
-    
   }
   &.active {
-  border-bottom: 0;
-  border-bottom: 1px solid white;
-
-  // height: 51px;
-  // line-height: 46px;
-  position: relative;
   color: black;
-  top: 1px;
   }
-    
 }
 
 .hero-content {
