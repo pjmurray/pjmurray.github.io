@@ -18,7 +18,7 @@ sass:
   style: compressed
 twitter_username: pjmurraynz
 github_username:  pjmurray
-current_location: London, United Kingdom
+current_location: Costa Rica
 # Build settings
 markdown: kramdown
 permalink:  /blog/:categories/:title.html
